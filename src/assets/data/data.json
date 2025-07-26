@@ -1,0 +1,29 @@
+{
+  "reviews": [
+    {
+      "id": "1",
+      "feedbackText": "The entire experience was absolutely amazing from start to finish. Every detail was thoughtfully handled, and the level of service far exceeded all of my expectations. I would highly recommend this to anyone looking for exceptional quality.",
+      "feedbackValue": 10
+    },
+    {
+      "id": "2",
+      "feedbackText": "Overall, the experience was good and met most of my expectations. However, I did notice a few areas that could benefit from some improvements, such as quicker response times and a bit more attention to detail.",
+      "feedbackValue": 7
+    },
+    {
+      "id": "3",
+      "feedbackText": "The service provided was average—neither particularly bad nor impressive. Everything functioned as expected, but there was nothing memorable or outstanding about the experience that would make it stand out from similar options.",
+      "feedbackValue": 5
+    },
+    {
+      "id": "4",
+      "feedbackText": "I was quite disappointed with the overall quality of the product I received. It did not match the description or my expectations, and there were noticeable issues that affected my satisfaction and usage.",
+      "feedbackValue": 3
+    },
+    {
+      "id": "5",
+      "feedbackText": "My experience was truly terrible, from the lack of customer support to the poor quality of the product or service provided. I felt completely let down and will definitely not be returning or recommending it to others.",
+      "feedbackValue": 1
+    }
+  ]
+}
