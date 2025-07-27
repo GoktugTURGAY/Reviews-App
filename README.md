@@ -5,9 +5,19 @@ Reviews Component
 
 This component is built with React.js & TailwindCSS. 
 
-The data regarding the reviews is stored in a remote JSON server via json-server npm package that provides crude back-end functionality:
+1.) Install dependencies
+npm i
+
+2.) Run Frontend
+npm run dev
+
+3.) Run JSON Server
 npm i json-server
-Then the data is fetched via FETCH API.
+npx json-server ./src/assets/data/data.json --port 8000
+
+Front-end development server is configured to run on port 3000 whereas back-end development server is configured to run on port 8000. Also proxying is done through Vite.
+
+The data is fetched via FETCH API.
 
 Dynamic functionality is given as you can post or remove reviews from the app, authenticate inputs as well as a spinner put in place during data fetching.
 
