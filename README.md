@@ -21,5 +21,5 @@ The data is fetched via FETCH API.
 
 Dynamic functionality is given as you can post or remove reviews from the app, authenticate inputs as well as a spinner put in place during data fetching.
 
-
+Note: I took a React course on Udemy. I built this project as part of that course.
 
